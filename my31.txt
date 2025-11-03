@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>complete form</h1>
+<form action="">
+<p>
+<label>enter your email id ;
+<input type = "text"name="myname"size="24"maxlength="25"/>
+</label>
+</p>
+<p>
+<label>enter the password:
+<input type = "password" name 
